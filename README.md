@@ -1,4 +1,4 @@
-# flutter_translate_gemini
+# Flutter Translate App with Gemini AI
 
 # Tutorial Build with Android Studio
 https://youtu.be/woMZvMt61BM
